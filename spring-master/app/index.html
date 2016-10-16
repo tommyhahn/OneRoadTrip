@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html ng-app="app">
+	<head>
+		<meta charset="UTF-8" />
+		<meta property="qc:admins" content="17134714776765271442106375" />
+		<meta property="wb:webmaster" content="3a8e785a27a1fa66" />
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<title>Traveller</title>
+
+	    <!-- build:css({.tmp,app}) styles/vendor.css -->
+	        <!-- bower:css -->
+	        <!-- run `gulp inject` to automatically populate bower styles dependencies -->
+	        <!-- endbower -->
+	    <!-- endbuild -->
+
+	    <!-- build:css({.tmp,app}) styles/app.css -->
+	        <!-- inject:vendor -->
+	        <!-- endinject -->
+
+	        <!-- inject:css -->
+	        <!-- endinject -->
+	    <!-- endbuild -->
+	</head>
+
+	<body>
+		<traveller-header></traveller-header>
+
+	    <div class="main">
+	    	<div ui-view></div>
+		</div>
+
+		<traveller-footer ng-if="showfooter"></traveller-footer>
+
+    	<script src="http://maps.google.cn/maps/api/js"></script>
+
+    <!-- build:js(app) scripts/vendor.js -->
+        <!-- bower:js -->
+        <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js({.tmp,app}) scripts/app.js -->
+        <!-- inject:js -->
+        <!-- endinject -->
+
+        <!-- inject:scripts -->
+        <!-- endinject -->
+
+        <!-- inject:partials -->
+        <!-- endinject -->
+    <!-- endbuild -->
+
+	</body>
+</html>

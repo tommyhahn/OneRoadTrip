@@ -1,0 +1,481 @@
+@import 'variables';
+
+
+.tourpage {
+	width: 100%;
+	
+	margin: 0 auto;
+	padding: 0 10px;
+	.tour {
+		display: flex;
+		height: 600px;
+	}
+	.reviewtitle {
+		width: 60%;
+		margin: 20px auto;
+		font-size: 1.8rem;
+		display: flex;
+		color: white;
+		font-weight: bold;
+		cursor: pointer;
+		div {
+			flex: 1;
+			text-align: center;
+			padding: 10px 0;
+			background: $traverllerOrange;
+		}
+		.opacity75 {
+			opacity: 0.75;
+		}
+		.opacity50 {
+			opacity: 0.5;
+		}
+	}
+}
+
+.tour-content {
+	border: 1px solid #E9E5DC;
+	margin-left: 20px;
+	width: 30%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	.tour-content-header {
+		height: 60px;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		div:first-child {
+			padding-left: 10px;
+			width: 80%;
+			i {
+				color: white;
+			}
+		}
+		button {
+			color: white;
+			background: $traverllerOrange;
+			padding: 5px 10px;
+			font-size: 1.5rem;
+			font-weight: 500;
+		}
+	}
+
+	.tour-content-recommend {
+		font-size: 1.4rem;
+		span {
+			color: white;
+			background: $traverllerOrange;
+			margin-right: 5px;
+			padding: 2px 5px;
+		}
+	}
+
+
+	.tour-content-footer{
+		width: 100%;
+		background: $traverllerOrange;
+		color: white;
+		font-weight: 500;
+		font-size: 2rem;
+		padding: 10px 0 10px 0;
+		display:flex;
+		text-align: center;
+		.icon {
+			width: 20%;
+			padding-left: 15%;
+			font-size: 2.2rem;
+		}
+		.content {
+		 	width: 80%;
+		 	padding-left: 20%;
+		}
+		&:hover {
+			cursor: pointer;
+		}
+	}
+
+	.dateshow {
+		text-align: center;
+		font-size: 1.4rem;
+		font-weight: 500;
+		width: 100%;
+		div {
+			margin: 15px auto;
+			span {
+				color: $traverllerOrange;
+				font-weight: 600;
+			}
+		}
+		background:$travellerLightGray;
+		i {
+			margin: 2px 5px;
+		}
+	}
+
+	.tour-content-body {
+		height: 100%;
+		padding: 0 20px;
+		background: $travellerLightGray;
+		overflow: scroll;
+		display: flex;
+		flex-direction: column;
+		.head {
+			width: 100%;
+			display: flex;
+			font-size: 1.5rem;
+			align-items: center;
+			.head-left {
+				width: 20%;
+				text-align: center;
+				img {
+					width: 80%;
+				}
+			}
+			.head-right {
+				width: 80%;
+				height: 100%;
+				padding: 10px;
+				background: white;
+				font-weight: 500;
+				display: flex;
+				justify-content: space-between;
+				i {
+					color: $traverllerOrange;
+					margin: 0 5px;
+				}
+			}
+		}
+		.breaksection {
+			width: 100%;
+			display: flex;
+			font-size: 1.5rem;
+			align-items: center;
+			justify-content: center;
+			background: white;
+			padding: 20px;
+			font-weight: 500;
+			margin-bottom: 10px;
+			i {
+				color: $traverllerOrange;
+				margin-right: 10px;
+				font-size: 2rem;
+			}
+		}
+		.section {
+			display: flex;
+			margin: 10px 0;
+			.section-left{
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				top: 50%;
+				width: 20%;
+				text-align: center;
+				font-size: 1.8rem;
+				font-weight: 600;
+				color: $traverllerOrange;
+			}
+			div.selected {
+				color: white;
+				background: $traverllerOrange;
+				.section-right-title  i{
+					color: white;
+				}
+			}
+			.section-right {
+				width: 80%;
+				font-size: 1.3rem;
+				background: white;
+				border-radius: 10px;
+				.section-right-title {
+					padding: 20px;
+					font-weight: 500;
+					margin-bottom: 5px;
+					cursor: pointer;
+					i {
+						font-size: 1.68rem;
+						&:hover {
+							cursor: pointer;
+						}
+					}
+				}
+				.spotname:not(:last-child):after {
+					content:' - ';
+				}
+				.sectondetail {
+					display: flex;
+					&:first-child {
+						margin-bottom: 20px;
+					}
+					&:last-child {
+						font-weight: 400;
+					}
+					div:first-child {
+						width: 10%;
+					}
+					i {
+						color:  $traverllerOrange;
+					}
+				}
+				.section-right-content {
+					padding: 10px;
+					div {
+						font-size: 1.3rem;
+						font-weight: 400;
+						padding: 2px 5px;
+						display: flex;
+						justify-content: space-between;
+					}
+				}
+			}
+		}
+	}
+}
+
+.tour-map {
+	width: 70%;
+	height: 100%;
+	.mapmarker {
+		background: $traverllerOrange;
+		color: white;
+		font-size: 1.5rem;
+		font-weight: 500;
+		border-radius: 10px;
+		padding: 1px 5px;
+		&>div {
+			text-align: center;
+		}
+	}
+}
+
+.guide-content {
+	border: 1px solid #E9E5DC;
+	font-size: 1.4rem;
+	margin-left: 20px;
+	height: 100%;
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	.guide-content-header {
+		padding: 10px;
+		padding-left: 20px;
+		color:$traverllerOrange;
+		font-size: 2rem;
+		i {
+			margin-right: 20px;
+			&:hover {
+			 	cursor: pointer;
+			}
+		}
+	}
+	.guide-content-body {
+		width: 100%;
+		height: 100%;
+		display: flex;
+		margin-top: 5px;
+		background: $travellerLightGray;
+		overflow: auto;
+		.guide-content-body-left {
+			width: 10%;
+			height: 90%;
+			display: flex;
+			flex-direction: column;
+			color: white;
+			font-weight: 500;
+			div {
+				flex-grow: 1;
+				background: white;
+				color: $travellerGrayFont;
+				&:hover {
+					cursor: pointer;
+					opacity: 0.7;
+				}
+				div {
+					position: relative;
+					width: 10%;
+					left: 35%;
+					top:50%;
+					transform: translateX(-50%);
+					background: inherit;
+					color: inherit;
+					height: 100%;
+					line-height: 1.25;
+				}
+				div:nth-of-type(1) {
+					left: 45%;
+					margin-top: 5px;
+				}
+				.rotate{
+					transform: rotate(90deg);
+					margin-top:-5px;
+					left: 40%;
+				}
+				.rotate+div {
+					margin-top: 18px;
+				}
+			}
+			div.active{
+				background: $traverllerOrange;
+				border: 1px solid white;
+				color: white;
+			}
+
+		}
+		.guide-content-body-right{
+			width: 100%;
+			background: $travellerLightGray;
+			display: flex;
+			flex-direction: column;
+			overflow: auto;
+			.guide-content-section-city {
+				display: flex;
+				justify-content: space-between;
+				background: white;
+				width: 100%;
+				padding: 12px 20px;
+				border: 1px solid $travellerLightGray;
+				font-weight: 500;
+				border-radius: 10px;
+				&:hover {
+					cursor: pointer;
+				}
+				div:first-child {
+					width: 20%;
+				}
+			}
+
+		}
+	}
+	.quoteView {
+		display: flex;
+		width: 100%;
+		justify-content: center;
+		flex-wrap: wrap;
+		height: 80px;
+		.priceinfo {
+			background: $traverllerOrange;
+			color: white;
+			font-size: 1.6rem;
+			font-weight: 500;
+			padding: 10px;
+			width: 40%;
+			margin: 10px auto;
+			border-radius: 5px;
+			text-align: center;
+			&:hover {
+				cursor: pointer;
+				opacity: 0.7;
+			}
+		}
+	}
+	.guide-content-footer{
+		widht: 100%;
+		background: $traverllerOrange;
+		color: white;
+		font-weight: 500;
+		font-size: 2rem;
+		padding: 10px 0 10px 0;
+		display:flex;
+
+		.content {
+			margin: 0 auto;
+			padding-bottom: 10px;
+		}
+		&:hover {
+			cursor: pointer;
+		}
+	}
+}
+
+.dndDraggingSource {
+    display: none;
+}
+
+.dndPlaceholder {
+    display: block;
+    background-color: white;
+    min-height: 250px;
+}
+
+.tour-content-section {
+	position: relative;
+	cursor: pointer;
+}
+
+
+
+.guide-content-section {
+	width: 100%;
+	position: relative;
+	padding: 10px;
+	margin-bottom: 20px;
+	.guide-section-left {
+		position: absolute;
+		top: 50%;
+		left: 0;
+		transform: translateY(-50%);
+		img {
+			cursor: pointer;
+			width: 60%;
+			&:hover {
+				opacity: 0.6;
+			}
+		}
+	}
+	.guide-section-middle {
+		background: white;
+		width: 90%;
+		margin: 0 auto;
+		font-weight: 500;
+		padding: 10px 50px 10px 50px;
+		&>div {
+			display: flex;
+			margin: 5px 0;
+		}
+		.middle-header {
+			color: $traverllerOrange;
+			justify-content: space-between;
+		}
+		hr {
+			width: 100%;
+			margin: 0;
+		}
+		div {
+			font-size: 1.3rem;
+			div {
+				margin-right: 5px;
+			}
+		}
+		.drivetagsummary {
+			align-items: center;
+			.drivetag {
+				background: $traverllerOrange;
+				color: white;
+				padding: 5px;
+				margin-left: 5px;
+				border-radius: 5px;
+			}
+		}
+	}
+	.guide-section-right {
+		position: absolute;
+		right: 0;
+		top: 50%;
+		transform: translateY(-50%);
+		div {
+			background: $traverllerOrange;
+			color: white;
+			font-size: 1.6rem;
+			padding: 15px 10px;
+			border-radius: 50%;
+			font-weight: 500;
+			&:hover {
+				cursor: pointer;
+				opacity: 0.6;
+			}
+		}
+	}
+}

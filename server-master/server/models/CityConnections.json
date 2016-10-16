@@ -1,0 +1,3481 @@
+[{
+  "fromCity": "San Diego",
+  "toCity": "Los Angels",
+  "distance": 193867
+}, {
+"fromCity": "San Diego",
+"toCity": "Reno",
+"distance": 900065
+}, {
+"fromCity": "San Diego",
+"toCity": "Las Vegas",
+"distance": 532595
+}, {
+"fromCity": "San Diego",
+"toCity": "Phoenix",
+"distance": 571289
+}, {
+"fromCity": "San Diego",
+"toCity": "Salt Lake City",
+"distance": 1206229
+}, {
+"fromCity": "San Diego",
+"toCity": "Sacramento",
+"distance": 811442
+}, {
+"fromCity": "San Diego",
+"toCity": "San Francisco",
+"distance": 807618
+}, {
+"fromCity": "San Diego",
+"toCity": "Portland",
+"distance": 1743607
+}, {
+"fromCity": "San Diego",
+"toCity": "Seattle",
+"distance": 2020057
+}, {
+"fromCity": "San Diego",
+"toCity": "Vancouvor",
+"distance": 1756033
+}, {
+"fromCity": "San Diego",
+"toCity": "Chicago",
+"distance": 3342852
+}, {
+"fromCity": "San Diego",
+"toCity": "New York",
+"distance": 4441341
+}, {
+"fromCity": "San Diego",
+"toCity": "Washington",
+"distance": 4321661
+}, {
+"fromCity": "San Diego",
+"toCity": "Philadelphia",
+"distance": 4333429
+}, {
+"fromCity": "San Diego",
+"toCity": "Boston",
+"distance": 4827403
+}, {
+"fromCity": "San Diego",
+"toCity": "Miami",
+"distance": 4276748
+}, {
+"fromCity": "San Diego",
+"toCity": "Atlanta",
+"distance": 3442818
+}, {
+"fromCity": "San Diego",
+"toCity": "Houston",
+"distance": 2364997
+}, {
+"fromCity": "San Diego",
+"toCity": "Orlando",
+"distance": 3915427
+}, {
+"fromCity": "San Diego",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "San Diego",
+"toCity": "New Orleans",
+"distance": 2926813
+}, {
+"fromCity": "San Diego",
+"toCity": "Denver",
+"distance": 1734099
+}, {
+"fromCity": "San Diego",
+"toCity": "Lake Tahoe",
+"distance": 851403
+}, {
+"fromCity": "San Diego",
+"toCity": "Dallas",
+"distance": 2185749
+}, {
+"fromCity": "San Diego",
+"toCity": "Columbus",
+"distance": 3580789
+}, {
+"fromCity": "San Diego",
+"toCity": "Niagara Fall",
+"distance": 4122813
+}, {
+"fromCity": "San Diego",
+"toCity": "Yosemite",
+"distance": 642562
+}, {
+"fromCity": "San Diego",
+"toCity": "San Jose",
+"distance": 740010
+}, {
+"fromCity": "Los Angels",
+"toCity": "San Diego",
+"distance": 193628
+}, {
+"fromCity": "Los Angels",
+"toCity": "Las Vegas",
+"distance": 433672
+}, {
+"fromCity": "San Diego",
+"toCity": "Yellowstone",
+"distance": 1719744
+}, {
+"fromCity": "Los Angels",
+"toCity": "Phoenix",
+"distance": 600293
+}, {
+"fromCity": "Los Angels",
+"toCity": "Salt Lake City",
+"distance": 1107306
+}, {
+"fromCity": "Los Angels",
+"toCity": "Sacramento",
+"distance": 618371
+}, {
+"fromCity": "Los Angels",
+"toCity": "Reno",
+"distance": 759798
+}, {
+"fromCity": "Los Angels",
+"toCity": "San Francisco",
+"distance": 614547
+}, {
+"fromCity": "Los Angels",
+"toCity": "Portland",
+"distance": 1550535
+}, {
+"fromCity": "Los Angels",
+"toCity": "Seattle",
+"distance": 1826986
+}, {
+"fromCity": "Los Angels",
+"toCity": "Vancouvor",
+"distance": 1562962
+}, {
+"fromCity": "Los Angels",
+"toCity": "New York",
+"distance": 4489843
+}, {
+"fromCity": "Los Angels",
+"toCity": "Chicago",
+"distance": 3243929
+}, {
+"fromCity": "Los Angels",
+"toCity": "Washington",
+"distance": 4294950
+}, {
+"fromCity": "Los Angels",
+"toCity": "Miami",
+"distance": 4402681
+}, {
+"fromCity": "Los Angels",
+"toCity": "Philadelphia",
+"distance": 4360637
+}, {
+"fromCity": "Los Angels",
+"toCity": "Boston",
+"distance": 4801862
+}, {
+"fromCity": "Los Angels",
+"toCity": "Atlanta",
+"distance": 3498201
+}, {
+"fromCity": "Los Angels",
+"toCity": "Orlando",
+"distance": 4041360
+}, {
+"fromCity": "Los Angels",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Los Angels",
+"toCity": "Houston",
+"distance": 2490930
+}, {
+"fromCity": "Los Angels",
+"toCity": "New Orleans",
+"distance": 3052746
+}, {
+"fromCity": "Los Angels",
+"toCity": "Denver",
+"distance": 1635177
+}, {
+"fromCity": "Los Angels",
+"toCity": "Lake Tahoe",
+"distance": 711136
+}, {
+"fromCity": "Los Angels",
+"toCity": "Dallas",
+"distance": 2311682
+}, {
+"fromCity": "Los Angels",
+"toCity": "Yosemite",
+"distance": 449491
+}, {
+"fromCity": "Los Angels",
+"toCity": "Columbus",
+"distance": 3607997
+}, {
+"fromCity": "Los Angels",
+"toCity": "Niagara Fall",
+"distance": 4097272
+}, {
+"fromCity": "Los Angels",
+"toCity": "San Jose",
+"distance": 546938
+}, {
+"fromCity": "Las Vegas",
+"toCity": "San Diego",
+"distance": 534217
+}, {
+"fromCity": "Los Angels",
+"toCity": "Yellowstone",
+"distance": 1620821
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Los Angels",
+"distance": 435004
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Reno",
+"distance": 721151
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Phoenix",
+"distance": 480151
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Salt Lake City",
+"distance": 676029
+}, {
+"fromCity": "Las Vegas",
+"toCity": "San Francisco",
+"distance": 915501
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Sacramento",
+"distance": 906021
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Portland",
+"distance": 1562295
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Vancouvor",
+"distance": 1569195
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Seattle",
+"distance": 1810516
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Chicago",
+"distance": 2812652
+}, {
+"fromCity": "Las Vegas",
+"toCity": "New York",
+"distance": 4058565
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Washington",
+"distance": 3865535
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Philadelphia",
+"distance": 3979976
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Boston",
+"distance": 4370585
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Atlanta",
+"distance": 3151127
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Miami",
+"distance": 4071337
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Houston",
+"distance": 2337693
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Denver",
+"distance": 1203899
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Las Vegas",
+"toCity": "New Orleans",
+"distance": 2774098
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Orlando",
+"distance": 3710017
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Lake Tahoe",
+"distance": 726325
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Dallas",
+"distance": 1961032
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Columbus",
+"distance": 3227336
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Niagara Fall",
+"distance": 3665995
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Yosemite",
+"distance": 733477
+}, {
+"fromCity": "Las Vegas",
+"toCity": "San Jose",
+"distance": 847892
+}, {
+"fromCity": "Las Vegas",
+"toCity": "Yellowstone",
+"distance": 1189544
+}, {
+"fromCity": "Phoenix",
+"toCity": "San Diego",
+"distance": 570662
+}, {
+"fromCity": "Phoenix",
+"toCity": "Los Angels",
+"distance": 598636
+}, {
+"fromCity": "Phoenix",
+"toCity": "Las Vegas",
+"distance": 480253
+}, {
+"fromCity": "Phoenix",
+"toCity": "Salt Lake City",
+"distance": 1065543
+}, {
+"fromCity": "Phoenix",
+"toCity": "Sacramento",
+"distance": 1215394
+}, {
+"fromCity": "Phoenix",
+"toCity": "Reno",
+"distance": 1200149
+}, {
+"fromCity": "Phoenix",
+"toCity": "San Francisco",
+"distance": 1211570
+}, {
+"fromCity": "Phoenix",
+"toCity": "Portland",
+"distance": 2147558
+}, {
+"fromCity": "Phoenix",
+"toCity": "Seattle",
+"distance": 2289513
+}, {
+"fromCity": "Phoenix",
+"toCity": "Vancouvor",
+"distance": 2159985
+}, {
+"fromCity": "Phoenix",
+"toCity": "Chicago",
+"distance": 2820722
+}, {
+"fromCity": "Phoenix",
+"toCity": "New York",
+"distance": 3876096
+}, {
+"fromCity": "Phoenix",
+"toCity": "Washington",
+"distance": 3702497
+}, {
+"fromCity": "Phoenix",
+"toCity": "Philadelphia",
+"distance": 3768184
+}, {
+"fromCity": "Phoenix",
+"toCity": "Miami",
+"distance": 3804257
+}, {
+"fromCity": "Phoenix",
+"toCity": "Boston",
+"distance": 4262159
+}, {
+"fromCity": "Phoenix",
+"toCity": "Atlanta",
+"distance": 2970327
+}, {
+"fromCity": "Phoenix",
+"toCity": "Houston",
+"distance": 1892506
+}, {
+"fromCity": "Phoenix",
+"toCity": "Denver",
+"distance": 1320942
+}, {
+"fromCity": "Phoenix",
+"toCity": "Orlando",
+"distance": 3442936
+}, {
+"fromCity": "Phoenix",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Phoenix",
+"toCity": "New Orleans",
+"distance": 2454322
+}, {
+"fromCity": "Phoenix",
+"toCity": "Dallas",
+"distance": 1713258
+}, {
+"fromCity": "Phoenix",
+"toCity": "Lake Tahoe",
+"distance": 1193210
+}, {
+"fromCity": "Phoenix",
+"toCity": "Columbus",
+"distance": 3015544
+}, {
+"fromCity": "Phoenix",
+"toCity": "Niagara Fall",
+"distance": 3557568
+}, {
+"fromCity": "Phoenix",
+"toCity": "Yellowstone",
+"distance": 1579058
+}, {
+"fromCity": "Phoenix",
+"toCity": "Yosemite",
+"distance": 1046514
+}, {
+"fromCity": "Phoenix",
+"toCity": "San Jose",
+"distance": 1143961
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "San Diego",
+"distance": 1207157
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Los Angels",
+"distance": 1107944
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Phoenix",
+"distance": 1065960
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Las Vegas",
+"distance": 677820
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Reno",
+"distance": 833967
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Sacramento",
+"distance": 1044575
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Portland",
+"distance": 1232238
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Seattle",
+"distance": 1351475
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "San Francisco",
+"distance": 1184239
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Vancouvor",
+"distance": 1239137
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Chicago",
+"distance": 2251741
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "New York",
+"distance": 3497654
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Washington",
+"distance": 3347757
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Philadelphia",
+"distance": 3448085
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Boston",
+"distance": 3809673
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Miami",
+"distance": 4077602
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Denver",
+"distance": 838406
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Atlanta",
+"distance": 3012313
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Orlando",
+"distance": 3716281
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Houston",
+"distance": 2377671
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Lake Tahoe",
+"distance": 888677
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "New Orleans",
+"distance": 2814076
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Niagara Fall",
+"distance": 3105083
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Columbus",
+"distance": 2724059
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Dallas",
+"distance": 2001010
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Yellowstone",
+"distance": 516160
+}, {
+"fromCity": "Reno",
+"toCity": "San Diego",
+"distance": 899185
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "Yosemite",
+"distance": 1189314
+}, {
+"fromCity": "Salt Lake City",
+"toCity": "San Jose",
+"distance": 1236004
+}, {
+"fromCity": "Reno",
+"toCity": "Los Angels",
+"distance": 833132
+}, {
+"fromCity": "Reno",
+"toCity": "Las Vegas",
+"distance": 721385
+}, {
+"fromCity": "Reno",
+"toCity": "Sacramento",
+"distance": 211888
+}, {
+"fromCity": "Reno",
+"toCity": "San Francisco",
+"distance": 351552
+}, {
+"fromCity": "Reno",
+"toCity": "Salt Lake City",
+"distance": 833921
+}, {
+"fromCity": "Reno",
+"toCity": "Phoenix",
+"distance": 1200351
+}, {
+"fromCity": "Reno",
+"toCity": "Portland",
+"distance": 860363
+}, {
+"fromCity": "Reno",
+"toCity": "Seattle",
+"distance": 1136813
+}, {
+"fromCity": "Reno",
+"toCity": "Vancouvor",
+"distance": 872789
+}, {
+"fromCity": "Reno",
+"toCity": "Chicago",
+"distance": 3081216
+}, {
+"fromCity": "Reno",
+"toCity": "New York",
+"distance": 4327129
+}, {
+"fromCity": "Reno",
+"toCity": "Washington",
+"distance": 4177232
+}, {
+"fromCity": "Reno",
+"toCity": "Boston",
+"distance": 4639149
+}, {
+"fromCity": "Reno",
+"toCity": "Philadelphia",
+"distance": 4277560
+}, {
+"fromCity": "Reno",
+"toCity": "Atlanta",
+"distance": 3841788
+}, {
+"fromCity": "Reno",
+"toCity": "Miami",
+"distance": 4791538
+}, {
+"fromCity": "Reno",
+"toCity": "Denver",
+"distance": 1667881
+}, {
+"fromCity": "Reno",
+"toCity": "Houston",
+"distance": 3057893
+}, {
+"fromCity": "Reno",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Reno",
+"toCity": "New Orleans",
+"distance": 3494298
+}, {
+"fromCity": "Reno",
+"toCity": "Orlando",
+"distance": 4430217
+}, {
+"fromCity": "Reno",
+"toCity": "Lake Tahoe",
+"distance": 60236
+}, {
+"fromCity": "Reno",
+"toCity": "Dallas",
+"distance": 2681232
+}, {
+"fromCity": "Reno",
+"toCity": "Niagara Fall",
+"distance": 3934559
+}, {
+"fromCity": "Reno",
+"toCity": "Columbus",
+"distance": 3553534
+}, {
+"fromCity": "Reno",
+"toCity": "Yosemite",
+"distance": 430058
+}, {
+"fromCity": "Reno",
+"toCity": "San Jose",
+"distance": 403318
+}, {
+"fromCity": "Reno",
+"toCity": "Yellowstone",
+"distance": 1157043
+}, {
+"fromCity": "Sacramento",
+"toCity": "Los Angels",
+"distance": 621178
+}, {
+"fromCity": "Sacramento",
+"toCity": "Las Vegas",
+"distance": 905029
+}, {
+"fromCity": "Sacramento",
+"toCity": "San Diego",
+"distance": 811868
+}, {
+"fromCity": "Sacramento",
+"toCity": "Reno",
+"distance": 212278
+}, {
+"fromCity": "Sacramento",
+"toCity": "Salt Lake City",
+"distance": 1045124
+}, {
+"fromCity": "Sacramento",
+"toCity": "Phoenix",
+"distance": 1217885
+}, {
+"fromCity": "Sacramento",
+"toCity": "San Francisco",
+"distance": 141051
+}, {
+"fromCity": "Sacramento",
+"toCity": "Portland",
+"distance": 934395
+}, {
+"fromCity": "Sacramento",
+"toCity": "Vancouvor",
+"distance": 946822
+}, {
+"fromCity": "Sacramento",
+"toCity": "Seattle",
+"distance": 1210846
+}, {
+"fromCity": "Sacramento",
+"toCity": "Chicago",
+"distance": 3292420
+}, {
+"fromCity": "Sacramento",
+"toCity": "New York",
+"distance": 4538333
+}, {
+"fromCity": "Sacramento",
+"toCity": "Washington",
+"distance": 4388435
+}, {
+"fromCity": "Sacramento",
+"toCity": "Philadelphia",
+"distance": 4488764
+}, {
+"fromCity": "Sacramento",
+"toCity": "Boston",
+"distance": 4850352
+}, {
+"fromCity": "Sacramento",
+"toCity": "Miami",
+"distance": 5020273
+}, {
+"fromCity": "Sacramento",
+"toCity": "Houston",
+"distance": 3108523
+}, {
+"fromCity": "Sacramento",
+"toCity": "Atlanta",
+"distance": 3969558
+}, {
+"fromCity": "Sacramento",
+"toCity": "Denver",
+"distance": 1879085
+}, {
+"fromCity": "Sacramento",
+"toCity": "Orlando",
+"distance": 4658952
+}, {
+"fromCity": "Sacramento",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Sacramento",
+"toCity": "New Orleans",
+"distance": 3670339
+}, {
+"fromCity": "Sacramento",
+"toCity": "Lake Tahoe",
+"distance": 189826
+}, {
+"fromCity": "Sacramento",
+"toCity": "Yosemite",
+"distance": 222445
+}, {
+"fromCity": "Sacramento",
+"toCity": "Columbus",
+"distance": 3764738
+}, {
+"fromCity": "Sacramento",
+"toCity": "Niagara Fall",
+"distance": 4145762
+}, {
+"fromCity": "Sacramento",
+"toCity": "Dallas",
+"distance": 2779462
+}, {
+"fromCity": "Sacramento",
+"toCity": "San Jose",
+"distance": 192816
+}, {
+"fromCity": "San Francisco",
+"toCity": "San Diego",
+"distance": 807317
+}, {
+"fromCity": "San Francisco",
+"toCity": "Los Angels",
+"distance": 616627
+}, {
+"fromCity": "Sacramento",
+"toCity": "Yellowstone",
+"distance": 1368247
+}, {
+"fromCity": "San Francisco",
+"toCity": "Las Vegas",
+"distance": 915113
+}, {
+"fromCity": "San Francisco",
+"toCity": "Reno",
+"distance": 351454
+}, {
+"fromCity": "San Francisco",
+"toCity": "Sacramento",
+"distance": 141422
+}, {
+"fromCity": "San Francisco",
+"toCity": "Phoenix",
+"distance": 1213334
+}, {
+"fromCity": "San Francisco",
+"toCity": "Salt Lake City",
+"distance": 1184300
+}, {
+"fromCity": "San Francisco",
+"toCity": "Portland",
+"distance": 1023656
+}, {
+"fromCity": "San Francisco",
+"toCity": "Vancouvor",
+"distance": 1036083
+}, {
+"fromCity": "San Francisco",
+"toCity": "Seattle",
+"distance": 1300107
+}, {
+"fromCity": "San Francisco",
+"toCity": "Chicago",
+"distance": 3431595
+}, {
+"fromCity": "San Francisco",
+"toCity": "New York",
+"distance": 4677509
+}, {
+"fromCity": "San Francisco",
+"toCity": "Washington",
+"distance": 4527611
+}, {
+"fromCity": "San Francisco",
+"toCity": "Philadelphia",
+"distance": 4627939
+}, {
+"fromCity": "San Francisco",
+"toCity": "Boston",
+"distance": 4989528
+}, {
+"fromCity": "San Francisco",
+"toCity": "Miami",
+"distance": 5015722
+}, {
+"fromCity": "San Francisco",
+"toCity": "Orlando",
+"distance": 4654402
+}, {
+"fromCity": "San Francisco",
+"toCity": "Atlanta",
+"distance": 3979642
+}, {
+"fromCity": "San Francisco",
+"toCity": "Houston",
+"distance": 3103972
+}, {
+"fromCity": "San Francisco",
+"toCity": "New Orleans",
+"distance": 3665788
+}, {
+"fromCity": "San Francisco",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "San Francisco",
+"toCity": "Denver",
+"distance": 2018260
+}, {
+"fromCity": "San Francisco",
+"toCity": "Lake Tahoe",
+"distance": 329002
+}, {
+"fromCity": "San Francisco",
+"toCity": "Yosemite",
+"distance": 264857
+}, {
+"fromCity": "San Francisco",
+"toCity": "Columbus",
+"distance": 3903913
+}, {
+"fromCity": "San Francisco",
+"toCity": "Dallas",
+"distance": 2789547
+}, {
+"fromCity": "San Francisco",
+"toCity": "Niagara Fall",
+"distance": 4284938
+}, {
+"fromCity": "San Francisco",
+"toCity": "San Jose",
+"distance": 77816
+}, {
+"fromCity": "San Francisco",
+"toCity": "Yellowstone",
+"distance": 1507423
+}, {
+"fromCity": "Portland",
+"toCity": "San Diego",
+"distance": 1743496
+}, {
+"fromCity": "Portland",
+"toCity": "Los Angels",
+"distance": 1552807
+}, {
+"fromCity": "Portland",
+"toCity": "Las Vegas",
+"distance": 1560397
+}, {
+"fromCity": "Portland",
+"toCity": "Phoenix",
+"distance": 2149514
+}, {
+"fromCity": "Portland",
+"toCity": "Salt Lake City",
+"distance": 1232044
+}, {
+"fromCity": "Portland",
+"toCity": "Reno",
+"distance": 859968
+}, {
+"fromCity": "Portland",
+"toCity": "Seattle",
+"distance": 278477
+}, {
+"fromCity": "Portland",
+"toCity": "Vancouvor",
+"distance": 14453
+}, {
+"fromCity": "Portland",
+"toCity": "Sacramento",
+"distance": 934296
+}, {
+"fromCity": "Portland",
+"toCity": "San Francisco",
+"distance": 1023271
+}, {
+"fromCity": "Portland",
+"toCity": "Chicago",
+"distance": 3412841
+}, {
+"fromCity": "Portland",
+"toCity": "New York",
+"distance": 4658754
+}, {
+"fromCity": "Portland",
+"toCity": "Philadelphia",
+"distance": 4609185
+}, {
+"fromCity": "Portland",
+"toCity": "Boston",
+"distance": 4970774
+}, {
+"fromCity": "Portland",
+"toCity": "Washington",
+"distance": 4508857
+}, {
+"fromCity": "Portland",
+"toCity": "Miami",
+"distance": 5238702
+}, {
+"fromCity": "Portland",
+"toCity": "Atlanta",
+"distance": 4173413
+}, {
+"fromCity": "Portland",
+"toCity": "Orlando",
+"distance": 4877382
+}, {
+"fromCity": "Portland",
+"toCity": "Denver",
+"distance": 1999506
+}, {
+"fromCity": "Portland",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Portland",
+"toCity": "Houston",
+"distance": 3655075
+}, {
+"fromCity": "Portland",
+"toCity": "New Orleans",
+"distance": 4091480
+}, {
+"fromCity": "Portland",
+"toCity": "Columbus",
+"distance": 3885159
+}, {
+"fromCity": "Portland",
+"toCity": "Niagara Fall",
+"distance": 4266184
+}, {
+"fromCity": "Portland",
+"toCity": "Lake Tahoe",
+"distance": 914553
+}, {
+"fromCity": "Portland",
+"toCity": "Yellowstone",
+"distance": 1310162
+}, {
+"fromCity": "Portland",
+"toCity": "Dallas",
+"distance": 3278414
+}, {
+"fromCity": "Portland",
+"toCity": "Yosemite",
+"distance": 1156569
+}, {
+"fromCity": "Portland",
+"toCity": "San Jose",
+"distance": 1075037
+}, {
+"fromCity": "Seattle",
+"toCity": "San Diego",
+"distance": 2020224
+}, {
+"fromCity": "Seattle",
+"toCity": "Las Vegas",
+"distance": 1797059
+}, {
+"fromCity": "Seattle",
+"toCity": "Salt Lake City",
+"distance": 1338883
+}, {
+"fromCity": "Seattle",
+"toCity": "Los Angels",
+"distance": 1829534
+}, {
+"fromCity": "Seattle",
+"toCity": "Phoenix",
+"distance": 2276026
+}, {
+"fromCity": "Seattle",
+"toCity": "Portland",
+"distance": 279817
+}, {
+"fromCity": "Seattle",
+"toCity": "Vancouvor",
+"distance": 265505
+}, {
+"fromCity": "Seattle",
+"toCity": "Reno",
+"distance": 1136696
+}, {
+"fromCity": "Seattle",
+"toCity": "Sacramento",
+"distance": 1211024
+}, {
+"fromCity": "Seattle",
+"toCity": "San Francisco",
+"distance": 1299999
+}, {
+"fromCity": "Seattle",
+"toCity": "Chicago",
+"distance": 3321732
+}, {
+"fromCity": "Seattle",
+"toCity": "New York",
+"distance": 4598877
+}, {
+"fromCity": "Seattle",
+"toCity": "Washington",
+"distance": 4448979
+}, {
+"fromCity": "Seattle",
+"toCity": "Philadelphia",
+"distance": 4549307
+}, {
+"fromCity": "Seattle",
+"toCity": "Boston",
+"distance": 4910896
+}, {
+"fromCity": "Seattle",
+"toCity": "Miami",
+"distance": 5305780
+}, {
+"fromCity": "Seattle",
+"toCity": "Atlanta",
+"distance": 4240490
+}, {
+"fromCity": "Seattle",
+"toCity": "Orlando",
+"distance": 4944459
+}, {
+"fromCity": "Seattle",
+"toCity": "Denver",
+"distance": 2106345
+}, {
+"fromCity": "Seattle",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Seattle",
+"toCity": "Houston",
+"distance": 3761914
+}, {
+"fromCity": "Seattle",
+"toCity": "Columbus",
+"distance": 3894516
+}, {
+"fromCity": "Seattle",
+"toCity": "New Orleans",
+"distance": 4198318
+}, {
+"fromCity": "Seattle",
+"toCity": "Niagara Fall",
+"distance": 4206306
+}, {
+"fromCity": "Seattle",
+"toCity": "Lake Tahoe",
+"distance": 1191281
+}, {
+"fromCity": "Seattle",
+"toCity": "Dallas",
+"distance": 3385253
+}, {
+"fromCity": "Seattle",
+"toCity": "Yellowstone",
+"distance": 1190091
+}, {
+"fromCity": "Seattle",
+"toCity": "Yosemite",
+"distance": 1433297
+}, {
+"fromCity": "Seattle",
+"toCity": "San Jose",
+"distance": 1351765
+}, {
+"fromCity": "Vancouvor",
+"toCity": "San Diego",
+"distance": 1756314
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Los Angels",
+"distance": 1565624
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Las Vegas",
+"distance": 1568191
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Salt Lake City",
+"distance": 1239838
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Phoenix",
+"distance": 2162331
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Reno",
+"distance": 872786
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Sacramento",
+"distance": 947114
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Portland",
+"distance": 15907
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Seattle",
+"distance": 265461
+}, {
+"fromCity": "Vancouvor",
+"toCity": "San Francisco",
+"distance": 1036089
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Chicago",
+"distance": 3420636
+}, {
+"fromCity": "Vancouvor",
+"toCity": "New York",
+"distance": 4666549
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Washington",
+"distance": 4516651
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Philadelphia",
+"distance": 4616979
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Boston",
+"distance": 4978568
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Miami",
+"distance": 5246497
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Atlanta",
+"distance": 4181207
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Orlando",
+"distance": 4885176
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Denver",
+"distance": 2007300
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Houston",
+"distance": 3662869
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Vancouvor",
+"toCity": "New Orleans",
+"distance": 4099274
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Niagara Fall",
+"distance": 4273978
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Lake Tahoe",
+"distance": 927371
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Columbus",
+"distance": 3892953
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Dallas",
+"distance": 3286208
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Yellowstone",
+"distance": 1317956
+}, {
+"fromCity": "Vancouvor",
+"toCity": "Yosemite",
+"distance": 1169387
+}, {
+"fromCity": "Vancouvor",
+"toCity": "San Jose",
+"distance": 1087855
+}, {
+"fromCity": "Chicago",
+"toCity": "San Diego",
+"distance": 3341812
+}, {
+"fromCity": "Chicago",
+"toCity": "Las Vegas",
+"distance": 2812475
+}, {
+"fromCity": "Chicago",
+"toCity": "Los Angels",
+"distance": 3242599
+}, {
+"fromCity": "Chicago",
+"toCity": "Salt Lake City",
+"distance": 2248059
+}, {
+"fromCity": "Chicago",
+"toCity": "Phoenix",
+"distance": 2821599
+}, {
+"fromCity": "Chicago",
+"toCity": "Reno",
+"distance": 3078980
+}, {
+"fromCity": "Chicago",
+"toCity": "Sacramento",
+"distance": 3289588
+}, {
+"fromCity": "Chicago",
+"toCity": "Portland",
+"distance": 3410536
+}, {
+"fromCity": "Chicago",
+"toCity": "San Francisco",
+"distance": 3429252
+}, {
+"fromCity": "Chicago",
+"toCity": "Seattle",
+"distance": 3321031
+}, {
+"fromCity": "Chicago",
+"toCity": "Vancouvor",
+"distance": 3417435
+}, {
+"fromCity": "Chicago",
+"toCity": "New York",
+"distance": 1271382
+}, {
+"fromCity": "Chicago",
+"toCity": "Washington",
+"distance": 1121485
+}, {
+"fromCity": "Chicago",
+"toCity": "Philadelphia",
+"distance": 1221813
+}, {
+"fromCity": "Chicago",
+"toCity": "Boston",
+"distance": 1583402
+}, {
+"fromCity": "Chicago",
+"toCity": "Miami",
+"distance": 2221386
+}, {
+"fromCity": "Chicago",
+"toCity": "Atlanta",
+"distance": 1156097
+}, {
+"fromCity": "Chicago",
+"toCity": "Orlando",
+"distance": 1860065
+}, {
+"fromCity": "Chicago",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Chicago",
+"toCity": "Denver",
+"distance": 1615286
+}, {
+"fromCity": "Chicago",
+"toCity": "Houston",
+"distance": 1743611
+}, {
+"fromCity": "Chicago",
+"toCity": "New Orleans",
+"distance": 1491900
+}, {
+"fromCity": "Chicago",
+"toCity": "Columbus",
+"distance": 577178
+}, {
+"fromCity": "Chicago",
+"toCity": "Niagara Fall",
+"distance": 878811
+}, {
+"fromCity": "Chicago",
+"toCity": "Dallas",
+"distance": 1490187
+}, {
+"fromCity": "Chicago",
+"toCity": "Lake Tahoe",
+"distance": 3133691
+}, {
+"fromCity": "Chicago",
+"toCity": "Yellowstone",
+"distance": 2279254
+}, {
+"fromCity": "Chicago",
+"toCity": "Yosemite",
+"distance": 3541072
+}, {
+"fromCity": "Chicago",
+"toCity": "San Jose",
+"distance": 3481018
+}, {
+"fromCity": "New York",
+"toCity": "Los Angels",
+"distance": 4489179
+}, {
+"fromCity": "New York",
+"toCity": "Las Vegas",
+"distance": 4059055
+}, {
+"fromCity": "New York",
+"toCity": "San Diego",
+"distance": 4440772
+}, {
+"fromCity": "New York",
+"toCity": "Salt Lake City",
+"distance": 3494640
+}, {
+"fromCity": "New York",
+"toCity": "Phoenix",
+"distance": 3873031
+}, {
+"fromCity": "New York",
+"toCity": "Sacramento",
+"distance": 4536169
+}, {
+"fromCity": "New York",
+"toCity": "Reno",
+"distance": 4325561
+}, {
+"fromCity": "New York",
+"toCity": "San Francisco",
+"distance": 4675833
+}, {
+"fromCity": "New York",
+"toCity": "Chicago",
+"distance": 1270084
+}, {
+"fromCity": "New York",
+"toCity": "Portland",
+"distance": 4657117
+}, {
+"fromCity": "New York",
+"toCity": "Washington",
+"distance": 363731
+}, {
+"fromCity": "New York",
+"toCity": "Seattle",
+"distance": 4600201
+}, {
+"fromCity": "New York",
+"toCity": "Vancouvor",
+"distance": 4664016
+}, {
+"fromCity": "New York",
+"toCity": "Philadelphia",
+"distance": 156084
+}, {
+"fromCity": "New York",
+"toCity": "Boston",
+"distance": 346509
+}, {
+"fromCity": "New York",
+"toCity": "Atlanta",
+"distance": 1401569
+}, {
+"fromCity": "New York",
+"toCity": "Miami",
+"distance": 2065115
+}, {
+"fromCity": "New York",
+"toCity": "Orlando",
+"distance": 1735575
+}, {
+"fromCity": "New York",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "New York",
+"toCity": "Houston",
+"distance": 2617984
+}, {
+"fromCity": "New York",
+"toCity": "Denver",
+"distance": 2861867
+}, {
+"fromCity": "New York",
+"toCity": "Columbus",
+"distance": 857975
+}, {
+"fromCity": "New York",
+"toCity": "New Orleans",
+"distance": 2099613
+}, {
+"fromCity": "New York",
+"toCity": "Niagara Fall",
+"distance": 635954
+}, {
+"fromCity": "New York",
+"toCity": "Dallas",
+"distance": 2489635
+}, {
+"fromCity": "New York",
+"toCity": "Lake Tahoe",
+"distance": 4380272
+}, {
+"fromCity": "New York",
+"toCity": "Yosemite",
+"distance": 4787653
+}, {
+"fromCity": "New York",
+"toCity": "Yellowstone",
+"distance": 3558423
+}, {
+"fromCity": "New York",
+"toCity": "San Jose",
+"distance": 4727599
+}, {
+"fromCity": "Washington",
+"toCity": "San Diego",
+"distance": 4327841
+}, {
+"fromCity": "Washington",
+"toCity": "Los Angels",
+"distance": 4295825
+}, {
+"fromCity": "Washington",
+"toCity": "Las Vegas",
+"distance": 3873464
+}, {
+"fromCity": "Washington",
+"toCity": "Phoenix",
+"distance": 3702054
+}, {
+"fromCity": "Washington",
+"toCity": "Salt Lake City",
+"distance": 3348325
+}, {
+"fromCity": "Washington",
+"toCity": "Reno",
+"distance": 4179247
+}, {
+"fromCity": "Washington",
+"toCity": "Sacramento",
+"distance": 4389854
+}, {
+"fromCity": "Washington",
+"toCity": "San Francisco",
+"distance": 4529518
+}, {
+"fromCity": "Washington",
+"toCity": "Portland",
+"distance": 4510802
+}, {
+"fromCity": "Washington",
+"toCity": "Chicago",
+"distance": 1123769
+}, {
+"fromCity": "Washington",
+"toCity": "Vancouvor",
+"distance": 4517701
+}, {
+"fromCity": "Washington",
+"toCity": "New York",
+"distance": 361714
+}, {
+"fromCity": "Washington",
+"toCity": "Seattle",
+"distance": 4453886
+}, {
+"fromCity": "Washington",
+"toCity": "Philadelphia",
+"distance": 223724
+}, {
+"fromCity": "Washington",
+"toCity": "Atlanta",
+"distance": 1029118
+}, {
+"fromCity": "Washington",
+"toCity": "Miami",
+"distance": 1692664
+}, {
+"fromCity": "Washington",
+"toCity": "Boston",
+"distance": 704493
+}, {
+"fromCity": "Washington",
+"toCity": "Orlando",
+"distance": 1363123
+}, {
+"fromCity": "Washington",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Washington",
+"toCity": "Houston",
+"distance": 2266641
+}, {
+"fromCity": "Washington",
+"toCity": "Columbus",
+"distance": 645534
+}, {
+"fromCity": "Washington",
+"toCity": "New Orleans",
+"distance": 1748270
+}, {
+"fromCity": "Washington",
+"toCity": "Denver",
+"distance": 2673126
+}, {
+"fromCity": "Washington",
+"toCity": "Niagara Fall",
+"distance": 628292
+}, {
+"fromCity": "Washington",
+"toCity": "Dallas",
+"distance": 2138292
+}, {
+"fromCity": "Washington",
+"toCity": "Lake Tahoe",
+"distance": 4233957
+}, {
+"fromCity": "Washington",
+"toCity": "Yellowstone",
+"distance": 3412109
+}, {
+"fromCity": "Washington",
+"toCity": "Yosemite",
+"distance": 4594298
+}, {
+"fromCity": "Washington",
+"toCity": "San Jose",
+"distance": 4581284
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Los Angels",
+"distance": 4363149
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Las Vegas",
+"distance": 3982252
+}, {
+"fromCity": "Philadelphia",
+"toCity": "San Diego",
+"distance": 4337119
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Salt Lake City",
+"distance": 3445272
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Phoenix",
+"distance": 3769378
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Reno",
+"distance": 4276193
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Sacramento",
+"distance": 4486801
+}, {
+"fromCity": "Philadelphia",
+"toCity": "San Francisco",
+"distance": 4626465
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Portland",
+"distance": 4607749
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Chicago",
+"distance": 1220716
+}, {
+"fromCity": "Philadelphia",
+"toCity": "New York",
+"distance": 155379
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Seattle",
+"distance": 4550833
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Vancouvor",
+"distance": 4614648
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Washington",
+"distance": 223890
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Boston",
+"distance": 498158
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Miami",
+"distance": 1925274
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Atlanta",
+"distance": 1261729
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Orlando",
+"distance": 1595734
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Houston",
+"distance": 2489458
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Columbus",
+"distance": 754322
+}, {
+"fromCity": "Philadelphia",
+"toCity": "New Orleans",
+"distance": 1971087
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Denver",
+"distance": 2781915
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Niagara Fall",
+"distance": 646682
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Dallas",
+"distance": 2361109
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Lake Tahoe",
+"distance": 4330904
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Yellowstone",
+"distance": 3509056
+}, {
+"fromCity": "Philadelphia",
+"toCity": "Yosemite",
+"distance": 4661623
+}, {
+"fromCity": "Philadelphia",
+"toCity": "San Jose",
+"distance": 4678231
+}, {
+"fromCity": "Boston",
+"toCity": "Las Vegas",
+"distance": 4370069
+}, {
+"fromCity": "Boston",
+"toCity": "Los Angels",
+"distance": 4800194
+}, {
+"fromCity": "Boston",
+"toCity": "Salt Lake City",
+"distance": 3805654
+}, {
+"fromCity": "Boston",
+"toCity": "San Diego",
+"distance": 4899407
+}, {
+"fromCity": "Boston",
+"toCity": "Phoenix",
+"distance": 4261773
+}, {
+"fromCity": "Boston",
+"toCity": "San Francisco",
+"distance": 4986847
+}, {
+"fromCity": "Boston",
+"toCity": "Sacramento",
+"distance": 4847183
+}, {
+"fromCity": "Boston",
+"toCity": "Seattle",
+"distance": 4911215
+}, {
+"fromCity": "Boston",
+"toCity": "Reno",
+"distance": 4636575
+}, {
+"fromCity": "Boston",
+"toCity": "Portland",
+"distance": 4968131
+}, {
+"fromCity": "Boston",
+"toCity": "Chicago",
+"distance": 1581098
+}, {
+"fromCity": "Boston",
+"toCity": "New York",
+"distance": 346658
+}, {
+"fromCity": "Boston",
+"toCity": "Vancouvor",
+"distance": 4975030
+}, {
+"fromCity": "Boston",
+"toCity": "Philadelphia",
+"distance": 499426
+}, {
+"fromCity": "Boston",
+"toCity": "Washington",
+"distance": 707073
+}, {
+"fromCity": "Boston",
+"toCity": "Miami",
+"distance": 2408457
+}, {
+"fromCity": "Boston",
+"toCity": "Atlanta",
+"distance": 1744911
+}, {
+"fromCity": "Boston",
+"toCity": "Orlando",
+"distance": 2078917
+}, {
+"fromCity": "Boston",
+"toCity": "Houston",
+"distance": 2973913
+}, {
+"fromCity": "Boston",
+"toCity": "Denver",
+"distance": 3172881
+}, {
+"fromCity": "Boston",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Boston",
+"toCity": "Niagara Fall",
+"distance": 731140
+}, {
+"fromCity": "Boston",
+"toCity": "Columbus",
+"distance": 1248338
+}, {
+"fromCity": "Boston",
+"toCity": "New Orleans",
+"distance": 2455542
+}, {
+"fromCity": "Boston",
+"toCity": "Dallas",
+"distance": 2845564
+}, {
+"fromCity": "Boston",
+"toCity": "Lake Tahoe",
+"distance": 4691286
+}, {
+"fromCity": "Boston",
+"toCity": "Yellowstone",
+"distance": 3869437
+}, {
+"fromCity": "Boston",
+"toCity": "Yosemite",
+"distance": 5098667
+}, {
+"fromCity": "Boston",
+"toCity": "San Jose",
+"distance": 5038613
+}, {
+"fromCity": "Miami",
+"toCity": "San Diego",
+"distance": 4275845
+}, {
+"fromCity": "Miami",
+"toCity": "Los Angels",
+"distance": 4396242
+}, {
+"fromCity": "Miami",
+"toCity": "Phoenix",
+"distance": 3797743
+}, {
+"fromCity": "Miami",
+"toCity": "Las Vegas",
+"distance": 4064924
+}, {
+"fromCity": "Miami",
+"toCity": "San Francisco",
+"distance": 5009177
+}, {
+"fromCity": "Miami",
+"toCity": "Sacramento",
+"distance": 5013000
+}, {
+"fromCity": "Miami",
+"toCity": "Salt Lake City",
+"distance": 4079691
+}, {
+"fromCity": "Miami",
+"toCity": "Reno",
+"distance": 4784820
+}, {
+"fromCity": "Miami",
+"toCity": "Portland",
+"distance": 5242168
+}, {
+"fromCity": "Miami",
+"toCity": "Washington",
+"distance": 1694153
+}, {
+"fromCity": "Miami",
+"toCity": "Chicago",
+"distance": 2218402
+}, {
+"fromCity": "Miami",
+"toCity": "Vancouvor",
+"distance": 5249068
+}, {
+"fromCity": "Miami",
+"toCity": "Seattle",
+"distance": 5308964
+}, {
+"fromCity": "Miami",
+"toCity": "Orlando",
+"distance": 378242
+}, {
+"fromCity": "Miami",
+"toCity": "Atlanta",
+"distance": 1066712
+}, {
+"fromCity": "Miami",
+"toCity": "Boston",
+"distance": 2406021
+}, {
+"fromCity": "Miami",
+"toCity": "Philadelphia",
+"distance": 1925315
+}, {
+"fromCity": "Miami",
+"toCity": "New York",
+"distance": 2063305
+}, {
+"fromCity": "Miami",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Miami",
+"toCity": "Houston",
+"distance": 1911320
+}, {
+"fromCity": "Miami",
+"toCity": "New Orleans",
+"distance": 1392362
+}, {
+"fromCity": "Miami",
+"toCity": "Columbus",
+"distance": 1856410
+}, {
+"fromCity": "Miami",
+"toCity": "Denver",
+"distance": 3325999
+}, {
+"fromCity": "Miami",
+"toCity": "Dallas",
+"distance": 2107201
+}, {
+"fromCity": "Miami",
+"toCity": "Niagara Fall",
+"distance": 2246556
+}, {
+"fromCity": "Miami",
+"toCity": "Yosemite",
+"distance": 4709608
+}, {
+"fromCity": "Miami",
+"toCity": "Yellowstone",
+"distance": 4267187
+}, {
+"fromCity": "Miami",
+"toCity": "Lake Tahoe",
+"distance": 4789994
+}, {
+"fromCity": "Atlanta",
+"toCity": "San Diego",
+"distance": 3448424
+}, {
+"fromCity": "Miami",
+"toCity": "San Jose",
+"distance": 4941568
+}, {
+"fromCity": "Atlanta",
+"toCity": "Las Vegas",
+"distance": 3153797
+}, {
+"fromCity": "Atlanta",
+"toCity": "Phoenix",
+"distance": 2970321
+}, {
+"fromCity": "Atlanta",
+"toCity": "Los Angels",
+"distance": 3500007
+}, {
+"fromCity": "Atlanta",
+"toCity": "Salt Lake City",
+"distance": 3013408
+}, {
+"fromCity": "Atlanta",
+"toCity": "Reno",
+"distance": 3844330
+}, {
+"fromCity": "Atlanta",
+"toCity": "Sacramento",
+"distance": 3971025
+}, {
+"fromCity": "Atlanta",
+"toCity": "San Francisco",
+"distance": 3980504
+}, {
+"fromCity": "Atlanta",
+"toCity": "Seattle",
+"distance": 4242681
+}, {
+"fromCity": "Atlanta",
+"toCity": "Portland",
+"distance": 4175885
+}, {
+"fromCity": "Atlanta",
+"toCity": "Vancouvor",
+"distance": 4182784
+}, {
+"fromCity": "Atlanta",
+"toCity": "New York",
+"distance": 1396722
+}, {
+"fromCity": "Atlanta",
+"toCity": "Chicago",
+"distance": 1152119
+}, {
+"fromCity": "Atlanta",
+"toCity": "Washington",
+"distance": 1027570
+}, {
+"fromCity": "Atlanta",
+"toCity": "Philadelphia",
+"distance": 1258732
+}, {
+"fromCity": "Atlanta",
+"toCity": "Miami",
+"distance": 1066246
+}, {
+"fromCity": "Atlanta",
+"toCity": "Orlando",
+"distance": 704925
+}, {
+"fromCity": "Atlanta",
+"toCity": "Boston",
+"distance": 1739438
+}, {
+"fromCity": "Atlanta",
+"toCity": "Houston",
+"distance": 1276088
+}, {
+"fromCity": "Atlanta",
+"toCity": "New Orleans",
+"distance": 757130
+}, {
+"fromCity": "Atlanta",
+"toCity": "Columbus",
+"distance": 912501
+}, {
+"fromCity": "Atlanta",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Atlanta",
+"toCity": "Denver",
+"distance": 2259715
+}, {
+"fromCity": "Atlanta",
+"toCity": "Niagara Fall",
+"distance": 1456623
+}, {
+"fromCity": "Atlanta",
+"toCity": "Lake Tahoe",
+"distance": 3899040
+}, {
+"fromCity": "Atlanta",
+"toCity": "Dallas",
+"distance": 1257681
+}, {
+"fromCity": "Atlanta",
+"toCity": "Yellowstone",
+"distance": 3200904
+}, {
+"fromCity": "Atlanta",
+"toCity": "Yosemite",
+"distance": 3798481
+}, {
+"fromCity": "Atlanta",
+"toCity": "San Jose",
+"distance": 3912896
+}, {
+"fromCity": "Orlando",
+"toCity": "San Diego",
+"distance": 3913747
+}, {
+"fromCity": "Orlando",
+"toCity": "Los Angels",
+"distance": 4034144
+}, {
+"fromCity": "Orlando",
+"toCity": "Phoenix",
+"distance": 3435644
+}, {
+"fromCity": "Orlando",
+"toCity": "Las Vegas",
+"distance": 3702825
+}, {
+"fromCity": "Orlando",
+"toCity": "Salt Lake City",
+"distance": 3717593
+}, {
+"fromCity": "Orlando",
+"toCity": "Sacramento",
+"distance": 4650902
+}, {
+"fromCity": "Orlando",
+"toCity": "Reno",
+"distance": 4422721
+}, {
+"fromCity": "Orlando",
+"toCity": "San Francisco",
+"distance": 4647078
+}, {
+"fromCity": "Orlando",
+"toCity": "Portland",
+"distance": 4880070
+}, {
+"fromCity": "Orlando",
+"toCity": "Seattle",
+"distance": 4946866
+}, {
+"fromCity": "Orlando",
+"toCity": "New York",
+"distance": 1732961
+}, {
+"fromCity": "Orlando",
+"toCity": "Chicago",
+"distance": 1856303
+}, {
+"fromCity": "Orlando",
+"toCity": "Washington",
+"distance": 1363808
+}, {
+"fromCity": "Orlando",
+"toCity": "Vancouvor",
+"distance": 4886969
+}, {
+"fromCity": "Orlando",
+"toCity": "Miami",
+"distance": 379082
+}, {
+"fromCity": "Orlando",
+"toCity": "Philadelphia",
+"distance": 1594971
+}, {
+"fromCity": "Orlando",
+"toCity": "Houston",
+"distance": 1549221
+}, {
+"fromCity": "Orlando",
+"toCity": "Boston",
+"distance": 2075677
+}, {
+"fromCity": "Orlando",
+"toCity": "Atlanta",
+"distance": 704614
+}, {
+"fromCity": "Orlando",
+"toCity": "New Orleans",
+"distance": 1030264
+}, {
+"fromCity": "Orlando",
+"toCity": "Denver",
+"distance": 2963900
+}, {
+"fromCity": "Orlando",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Orlando",
+"toCity": "Columbus",
+"distance": 1526066
+}, {
+"fromCity": "Orlando",
+"toCity": "Dallas",
+"distance": 1745102
+}, {
+"fromCity": "Orlando",
+"toCity": "Niagara Fall",
+"distance": 1916211
+}, {
+"fromCity": "Houston",
+"toCity": "San Diego",
+"distance": 2367547
+}, {
+"fromCity": "Orlando",
+"toCity": "Lake Tahoe",
+"distance": 4427895
+}, {
+"fromCity": "Orlando",
+"toCity": "Yellowstone",
+"distance": 3905088
+}, {
+"fromCity": "Orlando",
+"toCity": "San Jose",
+"distance": 4579469
+}, {
+"fromCity": "Orlando",
+"toCity": "Yosemite",
+"distance": 4347509
+}, {
+"fromCity": "Houston",
+"toCity": "Phoenix",
+"distance": 1889444
+}, {
+"fromCity": "Houston",
+"toCity": "Los Angels",
+"distance": 2487944
+}, {
+"fromCity": "Houston",
+"toCity": "Las Vegas",
+"distance": 2369711
+}, {
+"fromCity": "Houston",
+"toCity": "Salt Lake City",
+"distance": 2375753
+}, {
+"fromCity": "Houston",
+"toCity": "Reno",
+"distance": 3089607
+}, {
+"fromCity": "Houston",
+"toCity": "San Francisco",
+"distance": 3100878
+}, {
+"fromCity": "Houston",
+"toCity": "Sacramento",
+"distance": 3104702
+}, {
+"fromCity": "Houston",
+"toCity": "Portland",
+"distance": 3652226
+}, {
+"fromCity": "Houston",
+"toCity": "New York",
+"distance": 2620595
+}, {
+"fromCity": "Houston",
+"toCity": "Chicago",
+"distance": 1741599
+}, {
+"fromCity": "Houston",
+"toCity": "Vancouvor",
+"distance": 3659125
+}, {
+"fromCity": "Houston",
+"toCity": "Seattle",
+"distance": 3771463
+}, {
+"fromCity": "Houston",
+"toCity": "Washington",
+"distance": 2266603
+}, {
+"fromCity": "Houston",
+"toCity": "Miami",
+"distance": 1910451
+}, {
+"fromCity": "Houston",
+"toCity": "Philadelphia",
+"distance": 2490724
+}, {
+"fromCity": "Houston",
+"toCity": "Orlando",
+"distance": 1549130
+}, {
+"fromCity": "Houston",
+"toCity": "Atlanta",
+"distance": 1275929
+}, {
+"fromCity": "Houston",
+"toCity": "Boston",
+"distance": 2975229
+}, {
+"fromCity": "Houston",
+"toCity": "New Orleans",
+"distance": 560517
+}, {
+"fromCity": "Houston",
+"toCity": "Dallas",
+"distance": 384815
+}, {
+"fromCity": "Houston",
+"toCity": "Denver",
+"distance": 1655703
+}, {
+"fromCity": "Houston",
+"toCity": "Niagara Fall",
+"distance": 2402155
+}, {
+"fromCity": "Houston",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Houston",
+"toCity": "Columbus",
+"distance": 1858034
+}, {
+"fromCity": "Houston",
+"toCity": "Lake Tahoe",
+"distance": 3082519
+}, {
+"fromCity": "Houston",
+"toCity": "Yosemite",
+"distance": 2935822
+}, {
+"fromCity": "Houston",
+"toCity": "San Jose",
+"distance": 3033270
+}, {
+"fromCity": "Denver",
+"toCity": "San Diego",
+"distance": 1734725
+}, {
+"fromCity": "Houston",
+"toCity": "Yellowstone",
+"distance": 2816387
+}, {
+"fromCity": "Denver",
+"toCity": "Los Angels",
+"distance": 1635512
+}, {
+"fromCity": "Denver",
+"toCity": "Las Vegas",
+"distance": 1205387
+}, {
+"fromCity": "Denver",
+"toCity": "Phoenix",
+"distance": 1320944
+}, {
+"fromCity": "Denver",
+"toCity": "Reno",
+"distance": 1668212
+}, {
+"fromCity": "Denver",
+"toCity": "Salt Lake City",
+"distance": 837290
+}, {
+"fromCity": "Denver",
+"toCity": "Sacramento",
+"distance": 1878820
+}, {
+"fromCity": "Denver",
+"toCity": "San Francisco",
+"distance": 2018484
+}, {
+"fromCity": "Denver",
+"toCity": "Portland",
+"distance": 1999767
+}, {
+"fromCity": "Denver",
+"toCity": "Vancouvor",
+"distance": 2006666
+}, {
+"fromCity": "Denver",
+"toCity": "Seattle",
+"distance": 2119004
+}, {
+"fromCity": "Denver",
+"toCity": "New York",
+"distance": 2861857
+}, {
+"fromCity": "Denver",
+"toCity": "Chicago",
+"distance": 1615944
+}, {
+"fromCity": "Denver",
+"toCity": "Washington",
+"distance": 2665744
+}, {
+"fromCity": "Denver",
+"toCity": "Philadelphia",
+"distance": 2780185
+}, {
+"fromCity": "Denver",
+"toCity": "Boston",
+"distance": 3173877
+}, {
+"fromCity": "Denver",
+"toCity": "Miami",
+"distance": 3321585
+}, {
+"fromCity": "Denver",
+"toCity": "Orlando",
+"distance": 2960264
+}, {
+"fromCity": "Denver",
+"toCity": "Atlanta",
+"distance": 2256295
+}, {
+"fromCity": "Denver",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Denver",
+"toCity": "Houston",
+"distance": 1659518
+}, {
+"fromCity": "Denver",
+"toCity": "Columbus",
+"distance": 2027545
+}, {
+"fromCity": "Denver",
+"toCity": "New Orleans",
+"distance": 2095922
+}, {
+"fromCity": "Denver",
+"toCity": "Niagara Fall",
+"distance": 2469287
+}, {
+"fromCity": "Denver",
+"toCity": "Dallas",
+"distance": 1282856
+}, {
+"fromCity": "Denver",
+"toCity": "Lake Tahoe",
+"distance": 1722923
+}, {
+"fromCity": "Denver",
+"toCity": "Yellowstone",
+"distance": 1163928
+}, {
+"fromCity": "Denver",
+"toCity": "Yosemite",
+"distance": 1933985
+}, {
+"fromCity": "Denver",
+"toCity": "San Jose",
+"distance": 2048400
+}, {
+"fromCity": "New Orleans",
+"toCity": "San Diego",
+"distance": 2924383
+}, {
+"fromCity": "New Orleans",
+"toCity": "Los Angels",
+"distance": 3044780
+}, {
+"fromCity": "New Orleans",
+"toCity": "Phoenix",
+"distance": 2446280
+}, {
+"fromCity": "New Orleans",
+"toCity": "Las Vegas",
+"distance": 2770832
+}, {
+"fromCity": "New Orleans",
+"toCity": "Salt Lake City",
+"distance": 2808546
+}, {
+"fromCity": "New Orleans",
+"toCity": "Sacramento",
+"distance": 3661538
+}, {
+"fromCity": "New Orleans",
+"toCity": "Reno",
+"distance": 3490728
+}, {
+"fromCity": "New Orleans",
+"toCity": "San Francisco",
+"distance": 3657714
+}, {
+"fromCity": "New Orleans",
+"toCity": "Chicago",
+"distance": 1488777
+}, {
+"fromCity": "New Orleans",
+"toCity": "New York",
+"distance": 2099196
+}, {
+"fromCity": "New Orleans",
+"toCity": "Seattle",
+"distance": 4204257
+}, {
+"fromCity": "New Orleans",
+"toCity": "Portland",
+"distance": 4085020
+}, {
+"fromCity": "New Orleans",
+"toCity": "Vancouvor",
+"distance": 4091919
+}, {
+"fromCity": "New Orleans",
+"toCity": "Washington",
+"distance": 1745204
+}, {
+"fromCity": "New Orleans",
+"toCity": "Philadelphia",
+"distance": 1969326
+}, {
+"fromCity": "New Orleans",
+"toCity": "Miami",
+"distance": 1389226
+}, {
+"fromCity": "New Orleans",
+"toCity": "Houston",
+"distance": 559858
+}, {
+"fromCity": "New Orleans",
+"toCity": "Orlando",
+"distance": 1027905
+}, {
+"fromCity": "New Orleans",
+"toCity": "Boston",
+"distance": 2453830
+}, {
+"fromCity": "New Orleans",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "New Orleans",
+"toCity": "Dallas",
+"distance": 813109
+}, {
+"fromCity": "New Orleans",
+"toCity": "Niagara Fall",
+"distance": 2007467
+}, {
+"fromCity": "New Orleans",
+"toCity": "Denver",
+"distance": 2088497
+}, {
+"fromCity": "New Orleans",
+"toCity": "Columbus",
+"distance": 1463346
+}, {
+"fromCity": "New Orleans",
+"toCity": "San Jose",
+"distance": 3590106
+}, {
+"fromCity": "New Orleans",
+"toCity": "Yosemite",
+"distance": 3415516
+}, {
+"fromCity": "New Orleans",
+"toCity": "Yellowstone",
+"distance": 3249181
+}, {
+"fromCity": "Hawaii",
+"toCity": "San Diego",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Los Angels",
+"distance": 3000000
+}, {
+"fromCity": "New Orleans",
+"toCity": "Lake Tahoe",
+"distance": 3495902
+}, {
+"fromCity": "Hawaii",
+"toCity": "Las Vegas",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Phoenix",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Salt Lake City",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Reno",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Sacramento",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "San Francisco",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Portland",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Seattle",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Vancouvor",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Chicago",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "New York",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Washington",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Philadelphia",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Boston",
+"distance": 3000000
+}, {
+"fromCity": "New Orleans",
+"toCity": "Atlanta",
+"distance": 754703
+}, {
+"fromCity": "Hawaii",
+"toCity": "Miami",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Atlanta",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Orlando",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Houston",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Denver",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "New Orleans",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Niagara Fall",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Columbus",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Dallas",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Lake Tahoe",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Yosemite",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "San Jose",
+"distance": 3000000
+}, {
+"fromCity": "Hawaii",
+"toCity": "Yellowstone",
+"distance": 3000000
+}, {
+"fromCity": "Columbus",
+"toCity": "San Diego",
+"distance": 3575126
+}, {
+"fromCity": "Columbus",
+"toCity": "Salt Lake City",
+"distance": 2756721
+}, {
+"fromCity": "Columbus",
+"toCity": "Los Angels",
+"distance": 3609793
+}, {
+"fromCity": "Columbus",
+"toCity": "Las Vegas",
+"distance": 3229504
+}, {
+"fromCity": "Columbus",
+"toCity": "Phoenix",
+"distance": 3016724
+}, {
+"fromCity": "Columbus",
+"toCity": "Reno",
+"distance": 3587643
+}, {
+"fromCity": "Columbus",
+"toCity": "Sacramento",
+"distance": 3798251
+}, {
+"fromCity": "Columbus",
+"toCity": "Portland",
+"distance": 3919198
+}, {
+"fromCity": "Columbus",
+"toCity": "San Francisco",
+"distance": 3937915
+}, {
+"fromCity": "Columbus",
+"toCity": "Seattle",
+"distance": 3895636
+}, {
+"fromCity": "Columbus",
+"toCity": "Chicago",
+"distance": 571023
+}, {
+"fromCity": "Columbus",
+"toCity": "New York",
+"distance": 862094
+}, {
+"fromCity": "Columbus",
+"toCity": "Vancouvor",
+"distance": 3926097
+}, {
+"fromCity": "Columbus",
+"toCity": "Philadelphia",
+"distance": 754182
+}, {
+"fromCity": "Columbus",
+"toCity": "Washington",
+"distance": 639741
+}, {
+"fromCity": "Columbus",
+"toCity": "Boston",
+"distance": 1250377
+}, {
+"fromCity": "Columbus",
+"toCity": "Atlanta",
+"distance": 913262
+}, {
+"fromCity": "Columbus",
+"toCity": "Miami",
+"distance": 1855626
+}, {
+"fromCity": "Columbus",
+"toCity": "Orlando",
+"distance": 1526086
+}, {
+"fromCity": "Columbus",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Columbus",
+"toCity": "Denver",
+"distance": 2029167
+}, {
+"fromCity": "Columbus",
+"toCity": "Houston",
+"distance": 1858993
+}, {
+"fromCity": "Columbus",
+"toCity": "New Orleans",
+"distance": 1467344
+}, {
+"fromCity": "Columbus",
+"toCity": "Niagara Fall",
+"distance": 545787
+}, {
+"fromCity": "Columbus",
+"toCity": "Dallas",
+"distance": 1674078
+}, {
+"fromCity": "Columbus",
+"toCity": "Lake Tahoe",
+"distance": 3642353
+}, {
+"fromCity": "Columbus",
+"toCity": "Yellowstone",
+"distance": 2853859
+}, {
+"fromCity": "Columbus",
+"toCity": "Yosemite",
+"distance": 3908267
+}, {
+"fromCity": "Columbus",
+"toCity": "San Jose",
+"distance": 3989680
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "San Diego",
+"distance": 4194021
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Los Angels",
+"distance": 4094808
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Las Vegas",
+"distance": 3664683
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Salt Lake City",
+"distance": 3100268
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Phoenix",
+"distance": 3556387
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Reno",
+"distance": 3931189
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Portland",
+"distance": 4262745
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "San Francisco",
+"distance": 4281461
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Seattle",
+"distance": 4205829
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Vancouvor",
+"distance": 4269644
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Sacramento",
+"distance": 4141797
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "New York",
+"distance": 635198
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Chicago",
+"distance": 875712
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Washington",
+"distance": 624739
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Philadelphia",
+"distance": 646416
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Boston",
+"distance": 730852
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Miami",
+"distance": 2246260
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Orlando",
+"distance": 1916720
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Denver",
+"distance": 2467495
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Atlanta",
+"distance": 1456612
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Houston",
+"distance": 2402343
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Columbus",
+"distance": 542952
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Dallas",
+"distance": 2217429
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "New Orleans",
+"distance": 2010695
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Lake Tahoe",
+"distance": 3985900
+}, {
+"fromCity": "Dallas",
+"toCity": "San Diego",
+"distance": 2190450
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Yellowstone",
+"distance": 3164051
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "Yosemite",
+"distance": 4393281
+}, {
+"fromCity": "Dallas",
+"toCity": "Los Angels",
+"distance": 2310847
+}, {
+"fromCity": "Niagara Fall",
+"toCity": "San Jose",
+"distance": 4333227
+}, {
+"fromCity": "Dallas",
+"toCity": "Phoenix",
+"distance": 1712347
+}, {
+"fromCity": "Dallas",
+"toCity": "Las Vegas",
+"distance": 1955624
+}, {
+"fromCity": "Dallas",
+"toCity": "Salt Lake City",
+"distance": 1993339
+}, {
+"fromCity": "Dallas",
+"toCity": "Reno",
+"distance": 2675520
+}, {
+"fromCity": "Dallas",
+"toCity": "Sacramento",
+"distance": 2772852
+}, {
+"fromCity": "Dallas",
+"toCity": "San Francisco",
+"distance": 2782332
+}, {
+"fromCity": "Dallas",
+"toCity": "Portland",
+"distance": 3269812
+}, {
+"fromCity": "Dallas",
+"toCity": "Chicago",
+"distance": 1555288
+}, {
+"fromCity": "Dallas",
+"toCity": "Seattle",
+"distance": 3389049
+}, {
+"fromCity": "Dallas",
+"toCity": "Vancouvor",
+"distance": 3276711
+}, {
+"fromCity": "Dallas",
+"toCity": "New York",
+"distance": 2491165
+}, {
+"fromCity": "Dallas",
+"toCity": "Washington",
+"distance": 2137173
+}, {
+"fromCity": "Dallas",
+"toCity": "Philadelphia",
+"distance": 2361295
+}, {
+"fromCity": "Dallas",
+"toCity": "Atlanta",
+"distance": 1257366
+}, {
+"fromCity": "Dallas",
+"toCity": "Miami",
+"distance": 2111567
+}, {
+"fromCity": "Dallas",
+"toCity": "Boston",
+"distance": 2845799
+}, {
+"fromCity": "Dallas",
+"toCity": "Houston",
+"distance": 384652
+}, {
+"fromCity": "Dallas",
+"toCity": "Orlando",
+"distance": 1750246
+}, {
+"fromCity": "Dallas",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Dallas",
+"toCity": "New Orleans",
+"distance": 814327
+}, {
+"fromCity": "Dallas",
+"toCity": "Columbus",
+"distance": 1671723
+}, {
+"fromCity": "Dallas",
+"toCity": "Denver",
+"distance": 1273289
+}, {
+"fromCity": "Dallas",
+"toCity": "Niagara Fall",
+"distance": 2215844
+}, {
+"fromCity": "Dallas",
+"toCity": "Yosemite",
+"distance": 2600308
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "San Diego",
+"distance": 851728
+}, {
+"fromCity": "Dallas",
+"toCity": "Lake Tahoe",
+"distance": 2680694
+}, {
+"fromCity": "Dallas",
+"toCity": "Yellowstone",
+"distance": 2433973
+}, {
+"fromCity": "Dallas",
+"toCity": "San Jose",
+"distance": 2714723
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Los Angels",
+"distance": 713708
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Las Vegas",
+"distance": 726830
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Salt Lake City",
+"distance": 888552
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Reno",
+"distance": 61249
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Phoenix",
+"distance": 1194823
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Sacramento",
+"distance": 189451
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "San Francisco",
+"distance": 329116
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Portland",
+"distance": 914916
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Seattle",
+"distance": 1191366
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Vancouvor",
+"distance": 927342
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Chicago",
+"distance": 3135848
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "New York",
+"distance": 4381761
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Washington",
+"distance": 4231863
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Philadelphia",
+"distance": 4332191
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Boston",
+"distance": 4693780
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Atlanta",
+"distance": 3896419
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Houston",
+"distance": 3086367
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Miami",
+"distance": 4796983
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Denver",
+"distance": 1722512
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Orlando",
+"distance": 4435662
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Yosemite",
+"distance": 291514
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Columbus",
+"distance": 3608165
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Niagara Fall",
+"distance": 3989190
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "New Orleans",
+"distance": 3499743
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Yellowstone",
+"distance": 1211675
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "Dallas",
+"distance": 2686677
+}, {
+"fromCity": "Lake Tahoe",
+"toCity": "San Jose",
+"distance": 380881
+}, {
+"fromCity": "Yosemite",
+"toCity": "Los Angels",
+"distance": 452032
+}, {
+"fromCity": "Yosemite",
+"toCity": "San Diego",
+"distance": 642722
+}, {
+"fromCity": "Yosemite",
+"toCity": "Las Vegas",
+"distance": 550544
+}, {
+"fromCity": "Yosemite",
+"toCity": "Sacramento",
+"distance": 223103
+}, {
+"fromCity": "Yosemite",
+"toCity": "Reno",
+"distance": 247422
+}, {
+"fromCity": "Yosemite",
+"toCity": "Salt Lake City",
+"distance": 917546
+}, {
+"fromCity": "Yosemite",
+"toCity": "Phoenix",
+"distance": 1047555
+}, {
+"fromCity": "Yosemite",
+"toCity": "San Francisco",
+"distance": 264080
+}, {
+"fromCity": "Yosemite",
+"toCity": "Portland",
+"distance": 1161110
+}, {
+"fromCity": "Yosemite",
+"toCity": "Seattle",
+"distance": 1437561
+}, {
+"fromCity": "Yosemite",
+"toCity": "Vancouvor",
+"distance": 1173537
+}, {
+"fromCity": "Yosemite",
+"toCity": "Chicago",
+"distance": 3164842
+}, {
+"fromCity": "Yosemite",
+"toCity": "New York",
+"distance": 4410755
+}, {
+"fromCity": "Yosemite",
+"toCity": "Philadelphia",
+"distance": 4361186
+}, {
+"fromCity": "Yosemite",
+"toCity": "Washington",
+"distance": 4260858
+}, {
+"fromCity": "Yosemite",
+"toCity": "Boston",
+"distance": 4722774
+}, {
+"fromCity": "Yosemite",
+"toCity": "Atlanta",
+"distance": 3700487
+}, {
+"fromCity": "Yosemite",
+"toCity": "Miami",
+"distance": 4620697
+}, {
+"fromCity": "Yosemite",
+"toCity": "Houston",
+"distance": 2939099
+}, {
+"fromCity": "Yosemite",
+"toCity": "Denver",
+"distance": 1608354
+}, {
+"fromCity": "Yosemite",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Yosemite",
+"toCity": "Orlando",
+"distance": 4259376
+}, {
+"fromCity": "Yosemite",
+"toCity": "Lake Tahoe",
+"distance": 198760
+}, {
+"fromCity": "Yosemite",
+"toCity": "Columbus",
+"distance": 3631790
+}, {
+"fromCity": "Yosemite",
+"toCity": "Niagara Fall",
+"distance": 4018184
+}, {
+"fromCity": "Yosemite",
+"toCity": "New Orleans",
+"distance": 3323457
+}, {
+"fromCity": "Yosemite",
+"toCity": "Dallas",
+"distance": 2510391
+}, {
+"fromCity": "Yosemite",
+"toCity": "San Jose",
+"distance": 251949
+}, {
+"fromCity": "Yosemite",
+"toCity": "Yellowstone",
+"distance": 1332126
+}, {
+"fromCity": "Yellowstone",
+"toCity": "San Diego",
+"distance": 1720868
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Los Angels",
+"distance": 1621655
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Phoenix",
+"distance": 1579671
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Salt Lake City",
+"distance": 517351
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Las Vegas",
+"distance": 1191531
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Reno",
+"distance": 1155223
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Sacramento",
+"distance": 1365831
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Portland",
+"distance": 1310710
+}, {
+"fromCity": "Yellowstone",
+"toCity": "San Francisco",
+"distance": 1505495
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Seattle",
+"distance": 1190167
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Vancouvor",
+"distance": 1317609
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Chicago",
+"distance": 2172621
+}, {
+"fromCity": "Yellowstone",
+"toCity": "New York",
+"distance": 3449766
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Washington",
+"distance": 3299869
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Philadelphia",
+"distance": 3400197
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Boston",
+"distance": 3761786
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Miami",
+"distance": 4089479
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Denver",
+"distance": 873910
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Atlanta",
+"distance": 3024189
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Orlando",
+"distance": 3728158
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Houston",
+"distance": 2529479
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Columbus",
+"distance": 2733463
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Niagara Fall",
+"distance": 3057195
+}, {
+"fromCity": "Yellowstone",
+"toCity": "New Orleans",
+"distance": 2965883
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Lake Tahoe",
+"distance": 1209933
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Dallas",
+"distance": 2152818
+}, {
+"fromCity": "San Jose",
+"toCity": "San Diego",
+"distance": 739512
+}, {
+"fromCity": "San Jose",
+"toCity": "Los Angels",
+"distance": 548822
+}, {
+"fromCity": "Yellowstone",
+"toCity": "Yosemite",
+"distance": 1510570
+}, {
+"fromCity": "Yellowstone",
+"toCity": "San Jose",
+"distance": 1557260
+}, {
+"fromCity": "San Jose",
+"toCity": "Las Vegas",
+"distance": 847308
+}, {
+"fromCity": "San Jose",
+"toCity": "Reno",
+"distance": 403066
+}, {
+"fromCity": "San Jose",
+"toCity": "Sacramento",
+"distance": 193034
+}, {
+"fromCity": "San Jose",
+"toCity": "Salt Lake City",
+"distance": 1235912
+}, {
+"fromCity": "San Jose",
+"toCity": "San Francisco",
+"distance": 78082
+}, {
+"fromCity": "San Jose",
+"toCity": "Phoenix",
+"distance": 1144345
+}, {
+"fromCity": "San Jose",
+"toCity": "Portland",
+"distance": 1075268
+}, {
+"fromCity": "San Jose",
+"toCity": "Vancouvor",
+"distance": 1087694
+}, {
+"fromCity": "San Jose",
+"toCity": "Seattle",
+"distance": 1351719
+}, {
+"fromCity": "San Jose",
+"toCity": "Chicago",
+"distance": 3483207
+}, {
+"fromCity": "San Jose",
+"toCity": "New York",
+"distance": 4729121
+}, {
+"fromCity": "San Jose",
+"toCity": "Washington",
+"distance": 4579223
+}, {
+"fromCity": "San Jose",
+"toCity": "Boston",
+"distance": 5041140
+}, {
+"fromCity": "San Jose",
+"toCity": "Philadelphia",
+"distance": 4679551
+}, {
+"fromCity": "San Jose",
+"toCity": "Atlanta",
+"distance": 3911310
+}, {
+"fromCity": "San Jose",
+"toCity": "Miami",
+"distance": 4947640
+}, {
+"fromCity": "San Jose",
+"toCity": "Houston",
+"distance": 3035889
+}, {
+"fromCity": "San Jose",
+"toCity": "Hawaii",
+"distance": 3000000
+}, {
+"fromCity": "San Jose",
+"toCity": "Orlando",
+"distance": 4586319
+}, {
+"fromCity": "San Jose",
+"toCity": "New Orleans",
+"distance": 3597705
+}, {
+"fromCity": "San Jose",
+"toCity": "Denver",
+"distance": 2048813
+}, {
+"fromCity": "San Jose",
+"toCity": "Lake Tahoe",
+"distance": 380614
+}, {
+"fromCity": "San Jose",
+"toCity": "Yosemite",
+"distance": 260441
+}, {
+"fromCity": "San Jose",
+"toCity": "Niagara Fall",
+"distance": 4336550
+}, {
+"fromCity": "San Jose",
+"toCity": "Columbus",
+"distance": 3955525
+}, {
+"fromCity": "San Jose",
+"toCity": "Dallas",
+"distance": 2721215
+}, {
+"fromCity": "San Jose",
+"toCity": "Yellowstone",
+"distance": 1559035
+}]

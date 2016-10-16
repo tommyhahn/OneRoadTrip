@@ -1,0 +1,21 @@
+@import 'variables';
+
+.managepage {
+	width: 100%;
+	.managesection {
+		padding: 10px 0 10px 30px;
+		display: flex;
+		justify-content: space-between;
+		div {
+			flex:1;
+			overflow: hidden;
+			padding: 5px;
+			text-align: center;
+		}
+	}
+	.addbutton {
+		padding: 5px;
+		text-align: right;
+		background: $traverllerOrange;
+	}
+}
